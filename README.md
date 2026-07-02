@@ -1,41 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vishal Jaiswal! 👋</h1>
 
-<## 💫 About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B500&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing" />
+</p>
 
-🔭 I’m currently working on... 
-👯 I’m looking to collaborate on... 
-🤝 I’m looking for help with... 
-🌱 I’m currently learning... 
-💬 Ask me about... 
-⚡ Fun fact: ... 
+## 💫 About Me:
+* 🔭 I’m currently working on: Web Development Projects
+* 👯 I’m looking to collaborate on: Open Source Projects
+* 🤝 I’m looking for help with: New Technologies
+* 🌱 I’m currently learning: Advanced Development
+* 💬 Ask me about: Coding, Tech, and more!
+* ⚡ Fun fact: I love solving complex bugs.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Vishaljaiswal777/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_LINK_HERE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 ## 💻 Tech Stack:
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 </p>
-!--
-**Vishaltech03/Vishaltech03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshusaroh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusaroh&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljaiswal777&show_icons=true&theme=radical)
