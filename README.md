@@ -1,37 +1,27 @@
-<div align="center">
-  
-  <!-- Animation Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&width=800&height=100&lines=Hi+I'm+Vishal+Jaiswal! 👋;Building+Scalable+Solutions;Coder+|+Problem+Solver;Welcome+to+my+Profile" alt="Typing Animation" />
+<h1 align="center">Hi, I'm Vishal Jaiswal! 👋</h1>
 
-  <br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B500&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing" />
+</p>
 
-  <!-- About Me Section -->
-  <h3>💫 About Me</h3>
-  <p>🚀 I'm a passionate developer who loves to build efficient and scalable software.</p>
-  <p>🌱 Currently focusing on modern web technologies and system architecture.</p>
-  
-  <br>
+## 💫 About Me:
+* 🔭 I’m currently working on: Web Development Projects
+* 👯 I’m looking to collaborate on: Open Source Projects
+* 🤝 I’m looking for help with: New Technologies
+* 🌱 I’m currently learning: Advanced Development
+* 💬 Ask me about: Coding, Tech, and more!
+* ⚡ Fun fact: I love solving complex bugs.
 
-  <!-- Tech Stack with Hover Effect Icons -->
-  <h3>🛠 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,mongodb,supabase,firebase,github,git" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Vishaljaiswal777/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
-  <br><br>
+## 💻 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+</p>
 
-  <!-- GitHub Stats -->
-  <h3>📊 My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaljaiswal777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljaiswal777&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <br><br>
-
-  <!-- Connect Section -->
-  <h3>🌐 Connect With Me</h3>
-  <a href="https://www.instagram.com/Vishaljaiswal777/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
+### 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljaiswal777&show_icons=true&theme=radical)
