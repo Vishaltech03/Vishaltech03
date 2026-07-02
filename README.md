@@ -1,6 +1,27 @@
 ## Hi there 👋
 
-<!--
+<## 💫 About Me:
+
+🔭 I’m currently working on... 
+👯 I’m looking to collaborate on... 
+🤝 I’m looking for help with... 
+🌱 I’m currently learning... 
+💬 Ask me about... 
+⚡ Fun fact: ... 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Vishaljaiswal777/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+
+## 💻 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+</p>
+!--
 **Vishaltech03/Vishaltech03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
