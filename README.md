@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshusaroh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusaroh&layout=compact&theme=radical)
